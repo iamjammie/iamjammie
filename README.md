@@ -8,7 +8,7 @@ Threat hunter and blue team practitioner. Building [Hunt-Sage](https://github.co
 
 ## 🔍 What I'm Building
 
-**[Hunt-Sage](https://iamjammie.github.io/hunt-sage/)** — A practical threat hunting knowledge hub covering:
+**[Hunt-Sage](https://github.com/iamjammie/hunt-sage)** — A practical threat hunting knowledge hub covering:
 - Hunting methodologies mapped to **MITRE ATT&CK**
 - **Sigma detection rules** with KQL and SPL equivalents
 - **Incident response case studies** and walkthrough labs
