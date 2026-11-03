@@ -1,18 +1,33 @@
-# 👋 iamjammie
+<div align="center">
 
-**[INTELLIGENCE. HUNTING. RESILIENCE.]**
+<img src="assets/jammie-logo.png" width="170" alt="JAMMIE — Cyber Threat Hunter">
 
-Threat hunter and blue team practitioner. Building [Hunt-Sage](https://github.com/iamjammie/hunt-sage) — a public knowledge base for detection engineering, threat hunting, and incident response.
+<h1>iamjammie</h1>
+
+<strong>INTELLIGENCE&nbsp;·&nbsp;HUNTING&nbsp;·&nbsp;RESILIENCE</strong>
+
+<p>Threat hunter &amp; blue-team practitioner — building open-source, offline, MITRE&nbsp;ATT&amp;CK-mapped tooling and knowledge.</p>
+
+<p>
+<a href="https://iamjammie.github.io/FluxHunt/suite.html"><strong>▶&nbsp;The&nbsp;Hunt&nbsp;suite</strong></a> ·
+<a href="https://iamjammie.github.io/hunt-sage/">Hunt-Sage&nbsp;site</a> ·
+<a href="https://www.linkedin.com/in/ashok-kumar-5b62819b">LinkedIn</a>
+</p>
+
+</div>
 
 ---
 
-## 🔍 What I'm Building
+## 🧰 Projects
 
-**[Hunt-Sage](https://github.com/iamjammie/hunt-sage)** — A practical threat hunting knowledge hub covering:
-- Hunting methodologies mapped to **MITRE ATT&CK**
-- **Sigma detection rules** with KQL and SPL equivalents
-- **Incident response case studies** and walkthrough labs
-- Blue team CTF challenges with real artifacts
+| | Project | What it is |
+|---|---|---|
+| 🧠 | **[Hunt-Sage](https://github.com/iamjammie/hunt-sage)** | The one-stop **threat-hunting knowledge hub** — theory, 14 playbooks (KQL + SPL), 20 ATT&CK-mapped Sigma rules, cheat sheets, labs and a blue-team CTF. [Site →](https://iamjammie.github.io/hunt-sage/) |
+| 🌊 | **[FluxHunt](https://github.com/iamjammie/FluxHunt)** | *Hunting threats through traffic patterns* — a single-file, fully offline **PCAP analysis & IR** workbench in the browser. 35+ ATT&CK-mapped detectors, attack map, object export, reports. [Live demo →](https://iamjammie.github.io/FluxHunt/) |
+| 🖥️ | **[HostHunt](https://github.com/iamjammie/HostHunt)** | *Hunting threats through host artefacts* — a dependency-free Python **host/endpoint triage** tool. 43 ATT&CK-mapped rules, live Windows/Linux collectors, IOC sweep, fleet stacking, HTML/JSON/Markdown reports. |
+| 🛰️ | **[SPECTRA](https://github.com/iamjammie/SPECTRA---Space-Cyber-Framework)** | A mission-first **space-systems cyber** assessment framework built around attack-path state transitions (Mission → Exposure → … → Resilience). |
+
+> 🔗 See the tools and knowledge together on the **[Hunt suite hub](https://iamjammie.github.io/FluxHunt/suite.html)** — from the wire, to the box, to the playbook.
 
 ---
 
