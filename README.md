@@ -1,6 +1,6 @@
 # 👋 iamjammie
 
-**[SEEK. UNCOVER. ELIMINATE.]**
+**[INTELLIGENCE. HUNTING. RESILIENCE.]**
 
 Threat hunter and blue team practitioner. Building [Hunt-Sage](https://github.com/iamjammie/hunt-sage) — a public knowledge base for detection engineering, threat hunting, and incident response.
 
