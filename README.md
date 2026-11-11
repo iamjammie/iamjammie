@@ -27,6 +27,7 @@
 | 🔐 | **[ADHuntX](https://github.com/iamjammie/ADHuntX)** | *Hunting threats through directory exposure* — a single-file, fully offline **Active Directory security assessment & attack-path** analyzer in the browser. 35 ATT&CK-mapped rules, ACL/DACL analysis, PingCastle-style scoring, BloodHound-style attack graph, and a read-only PowerShell collector. |
 | 🛰️ | **[SPECTRA](https://github.com/iamjammie/SPECTRA---Space-Cyber-Framework)** | A mission-first **space-systems cyber** assessment framework built around attack-path state transitions (Mission → Exposure → … → Resilience). |
 | 🔦 | **[Photonwire](https://github.com/iamjammie/Photonwire)** | *Offline file transfer across an air gap, by screen and camera* — two self-contained HTML files: the isolated machine shows a file as a loop of QR codes, a phone reads it back, verifies the SHA-256 and shares it. Own QR encoder/decoder, zero network. |
+| 🛡️ | **[ThreatIntFlux](https://github.com/iamjammie/ThreatIntFlux)** | *The Edge Before Engagement* — an offline-first **threat-intelligence console** with a public-feed collector (CISA KEV, NVD, abuse.ch, AlienVault OTX) and a schema validator. Every item carries a trust tier; built-in data is labelled SAMPLE. |
 
 > 🔗 See the tools and knowledge together on the **[Hunt suite hub](https://iamjammie.github.io/FluxHunt/suite.html)** — from the wire, to the box, to the directory, to the playbook.
 
